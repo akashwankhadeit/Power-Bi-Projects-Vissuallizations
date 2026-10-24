@@ -20,11 +20,5 @@ The dashboard shows information about confirmed cases, recovered cases, and deat
 ## Project Goal
 To make COVID-19 data easy to understand through charts and visuals.
 
-## Dashboard Preview
-Add your Power BI dashboard screenshot here.
-
-## Project Status
-Completed / In Progress
-
 ## Created By
 Akash Wankhade
